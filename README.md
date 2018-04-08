@@ -14,7 +14,7 @@ Many thanks to the [Udacity team](https://eu.udacity.com/) as well as [w3schools
   * Clone or download ZIP
   * Open index.html
 
-Try the [live demo]()
+Try the [live demo](https://dastinadamowski.github.io/udacity-portfolio-master/)
 
 
 By Dastin Adamowski
