@@ -11,8 +11,8 @@ Photos courtesy of [Flickr](https://www.flickr.com/), used with permission under
 Many thanks to the [Udacity team](https://eu.udacity.com/) as well as [w3schools](https://www.w3schools.com/) for precious resources, invaluable yet free-of-charge knowledge and for proving that programming can be fun, a big driver of change and a spectacular limitless tool.
 
 # Run this Project
-*Clone or download ZIP
-*Open index.html
+  * Clone or download ZIP
+  * Open index.html
 
 Try the [live demo]()
 
